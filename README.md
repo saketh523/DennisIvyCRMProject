@@ -1,6 +1,8 @@
 # DennisIvyCRMProject
 
+
 Day 1 #  (DennisIvy.zip file)
+
 Django framework setup - done
 URLs and Views - done
 templates and inheritance - done
