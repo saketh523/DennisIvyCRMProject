@@ -17,3 +17,10 @@ Static Files and Images - done
 
 Database Models and Admin Panel - done
 
+Day 3 # (day3.zip file)
+------------------------
+
+Database Relationships 
+
+one-to-many and many-to-many relationships
+
